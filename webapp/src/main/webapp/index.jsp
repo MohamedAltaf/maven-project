@@ -1,1 +1,2 @@
-Hello, World! This is my first jenkins job. Thanks
+Hello, World! This is my first jenkins job.
+Version 7
